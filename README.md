@@ -1,3 +1,3 @@
 # Learning-Git
-using this to learn Git
-I've now loaded it into Netbeans
+1) using this to learn Git
+2) I've now loaded it into Netbeans
